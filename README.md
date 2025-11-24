@@ -12,11 +12,11 @@ Edit via Selection: Click on a table row to populate input fields for quick upda
 Python 3.x (Tkinter is included by default in most Python installations).
 
 # Installation
-Download or copy the code into a file named library_management.py.
+Download or copy the code into a file named library management system.py.
 Ensure Python 3.x is installed on your system.
 
 # Usage
-Run the application: python library_management.py
+Run the application: python library management system.py
 Enter a book title and ID in the fields.
 Click "Borrow" to set the book as borrowed, "Return" to mark it as returned, or "Remove" to delete it.
 View and manage records in the table below. Selecting a row fills the input fields for easy editing.
